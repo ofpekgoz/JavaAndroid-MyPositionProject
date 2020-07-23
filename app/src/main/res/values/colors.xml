@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="mainbackground">#915BFF</color>
+    <color name="colorbtnyenikayit">#4416A3</color>
+    <color name="colorbtntextcolor">#FFFFFF</color>
+    <color name="colorbtngirisyap">#9C3434</color>
+    //<color name="colorbacground">#FFFFFF</color>
+    <color name="btnarkadasekle">#39973D</color>
+    <color name="btntakipediliyor">#E5F143</color>
+
+    <color name="cardbacground">#BB49DA</color>
+
+    <color name="btnkabulet">#39973D</color>
+    <color name="btnreddet">#B51818</color>
+    <color name="btnkaldır">#D13131</color>
+
+
+
+
+
+
+
+
+
+</resources>
